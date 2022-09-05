@@ -1,6 +1,6 @@
 {
   "name": "react-shop-2",
-  "home": "https://github.com/onexez/react-shop",
+  "homepage": "https://github.com/onexez/react-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
